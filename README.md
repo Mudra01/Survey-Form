@@ -2,7 +2,7 @@
 
 ## How to run
 1. Clone the repo 
-`git clone https://github.com/james222424/Survey_Form.git`
+`git clone https://github.com/Mudra01/Survey-Form.git`
 
 2. navigate to the the folder
 
